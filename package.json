@@ -17,6 +17,8 @@
   "license": "0BSD",
   "dependencies": {
     "gatsby": "^2.26.1",
+    "gatsby-plugin-sharp": "^2.10.0",
+    "gatsby-transformer-sharp": "^2.8.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },

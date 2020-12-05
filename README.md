@@ -6,6 +6,9 @@
 <h1 align="center">
   Gatsby minimal starter
 </h1>
+<p align="center">
+ Hello world application, <i>first look into gatsby js</i>
+</p>
 
 ## 🚀 Quick start
 

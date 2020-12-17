@@ -1,12 +1,14 @@
 import * as React from "react";
 
+import { Container } from "../components";
+
 // markup
 const IndexPage = () => (
-  <main>
-    <center>
+  <Container>
+    <div>
       <h1>Gatsby</h1>
-    </center>
-  </main>
+    </div>
+  </Container>
 );
 
 export default IndexPage;
